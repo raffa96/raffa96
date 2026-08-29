@@ -1,6 +1,8 @@
-# Hi 👋, I'm Raffaele Tufano
+# Hi! 👋 I'm Raffaele Tufano 🚀
 
-## CTO · Full Stack Developer · Cybersecurity
+## CTO & Full Stack Developer @ The Bubble Company
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0e75b6&width=500&lines=CTO+%40+The+Bubble+Company;Full+Stack+Developer;Flutter+%26+Dart+Mobile+Dev;Cybersecurity+Enthusiast;Always+learning%2C+always+building+%F0%9F%92%AA)](https://git.io/typing-svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=raffa96&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -8,8 +10,8 @@
 
 ### 🧑‍💻 About me
 
-I'm a **CTO & Full Stack Developer** with a passion for building scalable web and mobile applications.
-I work across the full stack — from UI to infrastructure — and I also handle **application and network security** at my company.
+I'm the **CTO & Full Stack Developer** at [The Bubble Company](https://thebubblecompany.com), with a passion for building scalable web and mobile applications.
+I work across the full stack — from UI to infrastructure — and I also handle **application and network security** for the company.
 
 I'm always learning, always building, and I enjoy contributing to the open source community.
 
@@ -74,17 +76,15 @@ I'm always learning, always building, and I enjoy contributing to the open sourc
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=raffa96&layout=compact&locale=en)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raffa96&show_icons=true&locale=en)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=raffa96)
+
+![Snake animation](https://raw.githubusercontent.com/raffa96/raffa96/output/github-snake-dark.svg)
 
 ---
 
 ### 📬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raffaele-tufano-b8b459105)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/raffa_tufano)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/@raffaele96ful)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://fb.com/raffa.t96)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffaeletufano/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/raffa_tufano/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@raffaele_tufano)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/raffa.tufano/)
