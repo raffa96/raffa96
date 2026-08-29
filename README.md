@@ -1,4 +1,5 @@
-![Banner](./assets/banner.svg#gh-dark-mode-only)
+![Banner dark](./assets/banner.svg#gh-dark-mode-only)
+![Banner light](./assets/banner-light.svg#gh-light-mode-only)
 
 # Hi! 👋 I'm Raffaele Tufano 🚀
 
@@ -26,6 +27,14 @@ I'm always learning 📚, always building ⚡, and I enjoy contributing to the o
 - 📱 Cross-platform mobile apps with Flutter & Dart
 - 🔐 Application security & network hardening
 - ☁️ Infrastructure & deployment (AWS, Heroku, Docker)
+
+---
+
+### 📌 Quick facts
+
+- 📍 Based in Italy 🇮🇹
+- 💬 Ask me about TypeScript, Laravel, Flutter or application security
+- ⚡ Fun fact: I turned a teenage passion for code into leading a whole company's tech stack as CTO
 
 ---
 
